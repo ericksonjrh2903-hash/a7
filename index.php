@@ -42,33 +42,24 @@
     <!-- Main Content -->
     <main>
         
-        <!-- SECTION 1: UNIQUE Interactive 360-Degree Radial Complication Dial Hero -->
+        <!-- SECTION 1: 100VH FULL-SCREEN HERO BANNER SECTION -->
         <section class="hero-radial-section" style="background-image: url('img/hero_tourbillon.jpg');">
             <div class="hero-radial-overlay"></div>
             <div class="hero-radial-content reveal-item">
-                
-                <!-- Interactive Dial Tabs -->
-                <div class="hero-dial-tabs">
-                    <button class="dial-tab-btn active" data-dial="tourbillon">Tourbillon Escapement</button>
-                    <button class="dial-tab-btn" data-dial="calendar">Perpetual Calendar</button>
-                    <button class="dial-tab-btn" data-dial="chronograph">Flyback Chronograph</button>
-                    <button class="dial-tab-btn" data-dial="sonnerie">Grand Sonnerie</button>
-                </div>
-
-                <span class="hero-badge" id="heroBadge">COMPLICATION 01</span>
-                <h1 id="heroTitle">Skeleton Flying Tourbillon Escapement</h1>
-                <p class="hero-desc" id="heroDesc">A hand-finished 60-second rotating cage defying gravitational drag, rendered in 18k rose gold with 28,800 vph high-frequency regulation.</p>
+                <span class="hero-badge">HIGH HOROLOGY ATELIER</span>
+                <h1>Mastering the Art of High Horology</h1>
+                <p class="hero-desc">Discover our master complication timepieces—flying tourbillon escapements, 122-year perpetual calendar moonphases, and hand Rose Engine turned guilloché dials engineered for discerning collectors.</p>
                 
                 <div class="hero-btns">
-                    <a href="collections.html" class="btn btn-primary">Inquire Acquisition</a>
-                    <a href="#workbench" class="btn btn-secondary">Explore Horology Atelier</a>
+                    <a href="collections.html" class="btn btn-primary">Explore Complications</a>
+                    <a href="#workbench" class="btn btn-secondary">Discover Horology Atelier</a>
                 </div>
 
-                <!-- Dynamic Frequency & Jewel Callouts -->
-                <div class="hero-radial-callouts" id="heroCallouts">
+                <!-- Highlight Stats -->
+                <div class="hero-radial-callouts">
+                    <div class="callout-item"><span>COSC</span> Chronometer Certified</div>
                     <div class="callout-item"><span>28,800 vph</span> Frequency</div>
-                    <div class="callout-item"><span>31 Rubies</span> Jewels</div>
-                    <div class="callout-item"><span>72 Hours</span> Reserve</div>
+                    <div class="callout-item"><span>5-Year</span> Master Warranty</div>
                 </div>
             </div>
         </section>
